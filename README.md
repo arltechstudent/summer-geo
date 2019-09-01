@@ -1,7 +1,7 @@
 # summer-geo
 Summer World History project
 
-(Department of State - List of Countries)[https://www.state.gov/independent-states-in-the-world/]
+[Department of State - List of Countries](https://www.state.gov/independent-states-in-the-world/)
 
 * Map all countries
 * Map all capitals
