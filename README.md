@@ -6,6 +6,10 @@ Summer World History project
 * Map all countries
 * Map all capitals
 
+## Features
+
+[Google Map of features](https://drive.google.com/open?id=1IaDA2lzXpll1rHSRL15lBZhqzpgjJIaI&usp=sharing)
+
 ## Work in Progress
 
 sample countries
