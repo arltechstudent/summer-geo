@@ -9,4 +9,6 @@ Summer World History project
 
 ## Countries
 
+[Map of countries](https://github.com/arltechstudent/summer-geo/blob/master/countries.geojson)
+
 Source for countries shapes/info https://github.com/datasets/geo-countries/blob/master/data/countries.geojson
